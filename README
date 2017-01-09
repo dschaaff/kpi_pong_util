@@ -15,5 +15,4 @@ Expected output:
 	Ping rank: 7, Pong rank: 8, Relay rank: 7
 
 Build and run:
-  1) Run 'make' in example application directory
-  2) Execute the compiled example code using './[example application]' in example application directory
+  1) Provide this git URL into KWS and click 'Run'.
